@@ -16,6 +16,7 @@ This design is intended to be as simple as possible in terms of the installation
 * 3 buttons (I used these: https://www.aliexpress.com/item/32811149954.html?spm=a2g0s.9042311.0.0.49554c4dRzoluB)
 * M2x8mm screws of your choise (I used these: https://www.amazon.com/gp/product/B00YBMRAH4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 * Solid state relay (I used this: https://www.amazon.com/gp/product/B07Y33RZ8F/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+  https://www.aerial.net/shop/product_info.php?products_id=2006&ref=bestprice.gr
 * Rare earth magnets (optional), attached to the back of the SSR to fasten it to the inside of the espresso machine.
 * Braided cable sleeve (optional), I used https://www.amazon.com/gp/product/B07QJW9FKS/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
